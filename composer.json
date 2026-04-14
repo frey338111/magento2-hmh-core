@@ -1,0 +1,17 @@
+{
+  "name": "hmh/module-core",
+  "description": "Magento 2 module, core module for vendor HMH",
+  "type": "magento2-module",
+  "license": [
+    "proprietary"
+  ],
+  "version": "1.0.0",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Hmh\\Core\\": ""
+    }
+  }
+}
