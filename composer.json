@@ -1,5 +1,5 @@
 {
-  "name": "hmh/module-core",
+  "name": "hmh/magento2-hmh-core",
   "description": "Magento 2 module, core module for vendor HMH",
   "type": "magento2-module",
   "license": [
